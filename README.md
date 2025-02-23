@@ -1,4 +1,4 @@
-# BIG-SCI-Tourism-website
+# BIG-SCI-Tourism-website-IN
 Created by Ganesh Sekar of Class T.Y.CS. 
 
 
