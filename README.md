@@ -1,5 +1,5 @@
 # BIG-SCI-Tourism-website
-Created by Ramnathan Yogaswarar (Roll No.27) &amp; Mahesh Dravidar (Roll No.04) of Class T.Y.CS. 
+Created by Ganesh Sekar of Class T.Y.CS. 
 
 
 
